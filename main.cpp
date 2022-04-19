@@ -1,5 +1,5 @@
 // wgu c867.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Test of a test
 
 #include <iostream>
 #include <string>
